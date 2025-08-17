@@ -26,8 +26,8 @@ const Contact = () => {
   };
 
   return (
-    <section className="min-h-dvh mb-5 flex items-center justify-center p-6">
-      <div className="max-w-xl w-full bg-neutral-100 rounded-2xl shadow-lg/100 p-8 md:p-12">
+    <section className=mb-5 flex items-center justify-center p-6">
+      <div className="bg-neutral-100 rounded-2xl shadow-lg/100 p-8 md:p-12">
         <h1 className="text-4xl font-bold text-gray-800 mb-6 text-center">Contact Me</h1>
         <form onSubmit={handleSubmit} className="space-y-6">
           <div>
@@ -80,4 +80,5 @@ const Contact = () => {
 };
 
 export default Contact;
+
 
