@@ -15,7 +15,7 @@ const projects = [
     title: "E-commerce App",
     description: "A fully responsive e-commerce web app with shopping cart, product filters, and secure checkout.",
     image:`${Food}`,
-    link: "https://hariuma-hariharan-m-s-projects.vercel.app"
+    link: "#"
   },
   {
     title: "Automation Student counselling & Filteration System",
@@ -59,4 +59,5 @@ const Projects = () => {
 };
 
 export default Projects;
+
 
