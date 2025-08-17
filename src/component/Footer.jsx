@@ -14,7 +14,7 @@ const Footer = () => {
         {/* Social Links */}
         <div className="flex space-x-6 text-2xl">
           <a
-            href="https://instagram.com/yourusername"
+            href="https://www.instagram.com/hariuma1405?igsh=c21lNDZoajU3eXNm"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-pink-500 transition-colors"
@@ -22,7 +22,7 @@ const Footer = () => {
             <FaInstagram />
           </a>
           <a
-            href="https://linkedin.com/in/yourusername"
+            href="www.linkedin.com/in/m-hari-haran-0b8724288"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-blue-600 transition-colors"
@@ -30,7 +30,7 @@ const Footer = () => {
             <FaLinkedin />
           </a>
           <a
-            href="https://github.com/yourusername"
+            href="https://github.com/kuttyoola"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-gray-600 transition-colors"
@@ -52,3 +52,4 @@ const Footer = () => {
 };
 
 export default Footer;
+
