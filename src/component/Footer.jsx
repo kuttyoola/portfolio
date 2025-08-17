@@ -22,7 +22,7 @@ const Footer = () => {
             <FaInstagram />
           </a>
           <a
-            href="www.linkedin.com/in/m-hari-haran-0b8724288"
+            href="https://www.linkedin.com/in/m-hari-haran-0b8724288/"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-blue-600 transition-colors"
@@ -52,4 +52,5 @@ const Footer = () => {
 };
 
 export default Footer;
+
 
